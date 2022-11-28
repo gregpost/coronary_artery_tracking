@@ -1,0 +1,4 @@
+Starting... 
+2022-11-28 19:40:08.902414: 
+Epoch:  1 
+2022-11-28 19:48:08.457732: Train Loss:5.87566 Direction Train Loss:3.12309 Radius Train Loss:0.18350 

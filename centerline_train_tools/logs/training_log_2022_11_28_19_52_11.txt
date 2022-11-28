@@ -1,0 +1,9 @@
+Starting... 
+2022-11-28 19:52:11.337894: 
+Epoch:  1 
+2022-11-28 19:55:06.106772: Train Loss:6.95975 Direction Train Loss:3.13015 Radius Train Loss:0.25531 
+2022-11-28 19:55:57.053159: Val Loss:3.48737 Direction Val Loss:3.08041 Radius Val Loss:0.02713 
+2022-11-28 19:55:57.078228: Saving parameters to ../checkpoint/classification_checkpoints/centerline_net_model_s1.pkl 
+2022-11-28 19:55:57.665835: Learning rate adjusted to 0.001 
+2022-11-28 19:56:07.293168: 
+Epoch:  2 

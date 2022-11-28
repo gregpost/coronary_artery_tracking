@@ -1,0 +1,38 @@
+Starting... 
+2022-11-28 19:57:41.371317: 
+Epoch:  1 
+2022-11-28 19:59:10.173393: Train Loss:4.28210 Direction Train Loss:3.10355 Radius Train Loss:0.07857 
+2022-11-28 19:59:46.105900: Val Loss:3.36988 Direction Val Loss:3.03081 Radius Val Loss:0.02260 
+2022-11-28 19:59:46.122946: Saving parameters to ../checkpoint/classification_checkpoints/centerline_net_model_s1.pkl 
+2022-11-28 19:59:46.502747: Learning rate adjusted to 0.001 
+2022-11-28 19:59:46.506757: 
+Epoch:  2 
+2022-11-28 20:01:12.600280: Train Loss:3.41422 Direction Train Loss:3.00522 Radius Train Loss:0.02727 
+2022-11-28 20:01:49.431358: Val Loss:3.26333 Direction Val Loss:2.95659 Radius Val Loss:0.02045 
+2022-11-28 20:01:49.442389: Saving parameters to ../checkpoint/classification_checkpoints/centerline_net_model_s1.pkl 
+2022-11-28 20:01:49.787832: Learning rate adjusted to 0.0009850375627355537 
+2022-11-28 20:01:49.792345: 
+Epoch:  3 
+2022-11-28 20:03:16.088814: Train Loss:3.29745 Direction Train Loss:2.94662 Radius Train Loss:0.02339 
+2022-11-28 20:03:52.093256: Val Loss:3.15475 Direction Val Loss:2.90036 Radius Val Loss:0.01696 
+2022-11-28 20:03:52.111806: Saving parameters to ../checkpoint/classification_checkpoints/centerline_net_model_s1.pkl 
+2022-11-28 20:03:52.476806: Learning rate adjusted to 0.0009701505037879432 
+2022-11-28 20:03:52.480816: 
+Epoch:  4 
+2022-11-28 20:05:19.397610: Train Loss:3.22388 Direction Train Loss:2.90056 Radius Train Loss:0.02155 
+2022-11-28 20:05:55.522450: Val Loss:3.17649 Direction Val Loss:2.86289 Radius Val Loss:0.02091 
+2022-11-28 20:05:55.868924: Learning rate adjusted to 0.0009553392067742221 
+2022-11-28 20:05:55.872936: 
+Epoch:  5 
+2022-11-28 20:07:21.982637: Train Loss:3.17645 Direction Train Loss:2.86841 Radius Train Loss:0.02054 
+2022-11-28 20:08:00.019385: Val Loss:3.08570 Direction Val Loss:2.83657 Radius Val Loss:0.01661 
+2022-11-28 20:08:00.033424: Saving parameters to ../checkpoint/classification_checkpoints/centerline_net_model_s1.pkl 
+2022-11-28 20:08:00.406970: Learning rate adjusted to 0.0009406040612287403 
+2022-11-28 20:08:00.411984: 
+Epoch:  6 
+2022-11-28 20:09:27.390473: Train Loss:3.11995 Direction Train Loss:2.83549 Radius Train Loss:0.01896 
+2022-11-28 20:10:04.240502: Val Loss:3.16030 Direction Val Loss:2.81396 Radius Val Loss:0.02309 
+2022-11-28 20:10:04.590493: Learning rate adjusted to 0.0009259454627568516 
+2022-11-28 20:10:04.595006: 
+Epoch:  7 
+2022-11-28 20:11:31.320812: Train Loss:3.07204 Direction Train Loss:2.80522 Radius Train Loss:0.01779 
